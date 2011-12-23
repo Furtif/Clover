@@ -1,6 +1,3 @@
-BootHFS/StartHFS.com svn_mime_002dtype=application%2Foctet-stream
-BootHFS/efi32.com2 svn_mime_002dtype=application%2Foctet-stream
-BootHFS/efi32.com3 svn_mime_002dtype=application%2Foctet-stream
 BootSector/bin/Gpt.com svn_mime_002dtype=application%2Foctet-stream
 BootSector/bin/Mbr.com svn_mime_002dtype=application%2Foctet-stream
 BootSector/bin/St16_64.com svn_mime_002dtype=application%2Foctet-stream
