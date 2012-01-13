@@ -11,7 +11,6 @@ BootSector/bin/efi64.com2 svn_mime_002dtype=application%2Foctet-stream
 BootSector/bin/efi64.com3 svn_mime_002dtype=application%2Foctet-stream
 BootSector/bin/start32.com svn_mime_002dtype=application%2Foctet-stream
 BootSector/bin/start32H.com2 svn_mime_002dtype=application%2Foctet-stream
-BootSector/bin/start64H.com svn_mime_002dtype=application%2Foctet-stream
 BootSector/bin/start64H.com2 svn_mime_002dtype=application%2Foctet-stream
 BootSector/fix-embedded-paths svn_mime_002dtype=application%2Foctet-stream
 BootSector/gnu-gcc svn_mime_002dtype=application%2Foctet-stream
