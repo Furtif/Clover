@@ -155,6 +155,11 @@ CloverPackage/CloverV2/themespkg/metal/icons/vol_internal.icns svn_mime_002dtype
 CloverPackage/CloverV2/themespkg/metal/icons/vol_optical.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/metal/logo-org.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/metal/logo.png svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/package/Resources-original/background.tiff svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/package/Resources-original/en.lproj/Localizable.strings svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/package/Resources-original/ru.lproj/Localizable.strings svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/package/Resources-original/zh_CN.lproj/Localizable.strings svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/package/Resources-original/zh_TW.lproj/Localizable.strings svn_mime_002dtype=application%2Foctet-stream
 GenericBdsLib/GenericBdsStrings.uni svn_mime_002dtype=application%2Foctet-stream
 Logo/Logo.bmp svn_mime_002dtype=application%2Foctet-stream
 Logo/LogoBW.bmp svn_mime_002dtype=application%2Foctet-stream
