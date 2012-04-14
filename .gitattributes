@@ -21,6 +21,7 @@ BootSector/gnu-ld svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/BootSectors/boot0 svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/BootSectors/boot0hfs svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/BootSectors/boot0md svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/BootSectors/boot1altV2 svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/BootSectors/boot1f32 svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/BootSectors/boot1f32alt svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/BootSectors/boot1h svn_mime_002dtype=application%2Foctet-stream
