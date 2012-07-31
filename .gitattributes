@@ -62,6 +62,7 @@ CloverPackage/CloverV2/EFI/BOOT/themes/Selection_64px.bmp svn_mime_002dtype=appl
 CloverPackage/CloverV2/EFI/BOOT/themes/frame.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/EFI/BOOT/themes/logo_main.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/EFI/BOOT/themes/logo_metal.png svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/EFI/drivers64UEFI/OsxFatBinaryDrv-64.efi svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/EFI/tools/Shell32.efi svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/EFI/tools/Shell64.efi svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/doc/HowToFixDsdt.txt svn_mime_002dtype=application%2Foctet-stream
