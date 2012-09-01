@@ -216,7 +216,6 @@ CloverPackage/CloverV2/themespkg/metal/icons/vol_external.icns svn_mime_002dtype
 CloverPackage/CloverV2/themespkg/metal/icons/vol_firewire.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/metal/icons/vol_internal.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/metal/icons/vol_optical.icns svn_mime_002dtype=application%2Foctet-stream
-CloverPackage/CloverV2/themespkg/metal/logo.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/metal/logo_metal4.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/simple_gray/icons/apple.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/simple_gray/icons/boot_linux.icns svn_mime_002dtype=application%2Foctet-stream
@@ -262,6 +261,7 @@ CloverPackage/CloverV2/themespkg/wooden/icons/os_linux.icns svn_mime_002dtype=ap
 CloverPackage/CloverV2/themespkg/wooden/icons/os_lion.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/wooden/icons/os_snow.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/wooden/icons/os_unknown.icns svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/wooden/icons/os_vista.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/wooden/icons/os_win.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/wooden/icons/tool_shell.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/wooden/icons/tool_shell.png svn_mime_002dtype=application%2Foctet-stream
