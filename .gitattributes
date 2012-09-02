@@ -84,6 +84,7 @@ CloverPackage/CloverV2/themespkg/black_green/icons/os_clover.icns svn_mime_002dt
 CloverPackage/CloverV2/themespkg/black_green/icons/os_cougar.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/icons/os_legacy.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/icons/os_leo.icns svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/black_green/icons/os_linux.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/icons/os_lion.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/icons/os_snow.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/icons/os_tiger.icns svn_mime_002dtype=application%2Foctet-stream
@@ -275,6 +276,7 @@ CloverPackage/CloverV2/themespkg/wooden/logo_wooden.png svn_mime_002dtype=applic
 CloverPackage/package/Resources-original/background.tiff svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/package/Resources-original/en.lproj/Localizable.strings svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/package/Resources-original/es.lproj/Localizable.strings svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/package/Resources-original/pt.lproj/Localizable.strings svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/package/Resources-original/ru.lproj/Localizable.strings svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/package/Resources-original/zh_CN.lproj/Localizable.strings svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/package/Resources-original/zh_TW.lproj/Localizable.strings svn_mime_002dtype=application%2Foctet-stream
