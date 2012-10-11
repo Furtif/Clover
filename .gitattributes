@@ -31,6 +31,7 @@ CloverPackage/CloverV2/BootSectors/boot1f32.bin svn_mime_002dtype=application%2F
 CloverPackage/CloverV2/BootSectors/boot1f32alt svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/BootSectors/boot1h svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/BootSectors/boot1h2 svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/BootSectors/cdboot svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/BootSectors/fdisk440 svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/BootSectors/usbs32.bin svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/EFI/ACPI/mini/DSDT.aml svn_mime_002dtype=application%2Foctet-stream
