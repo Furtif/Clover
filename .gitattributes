@@ -384,6 +384,7 @@ CloverPackage/CloverV2/themespkg/mrengles/Clover_Logo.png svn_mime_002dtype=appl
 CloverPackage/CloverV2/themespkg/mrengles/No_Logo.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/mrengles/Selection_144px.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/mrengles/Selection_64px.png svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/mrengles/Transparent_Logo.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/mrengles/icons/func_about.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/mrengles/icons/func_about_alt.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/mrengles/icons/func_clover.png svn_mime_002dtype=application%2Foctet-stream
@@ -417,9 +418,11 @@ CloverPackage/CloverV2/themespkg/mrengles/icons/vol_internal.icns svn_mime_002dt
 CloverPackage/CloverV2/themespkg/mrengles/icons/vol_internal_ext3.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/mrengles/icons/vol_internal_hfs.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/mrengles/icons/vol_internal_ntfs.icns svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/mrengles/icons/vol_netboot.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/mrengles/icons/vol_network.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/mrengles/icons/vol_optical.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/mrengles/icons/vol_recovery.icns svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/mrengles/icons/vol_shared.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/mrengles/icons/vol_time_machine.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/public.generic-pc.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/simple_gray/icons/apple.png svn_mime_002dtype=application%2Foctet-stream
@@ -483,7 +486,6 @@ CloverPackage/CloverV2/themespkg/wooden/icons/vol_internal.icns svn_mime_002dtyp
 CloverPackage/CloverV2/themespkg/wooden/icons/vol_optical.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/wooden/logo_matreshka.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/wooden/logo_wooden.png svn_mime_002dtype=application%2Foctet-stream
-CloverPackage/imgskel/Клевер[!!-~]цвета[!!-~]хаки[!!-~]798.pdf svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/package/Icon.zip svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/package/Resources-original/background.tiff svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/package/Resources-original/en.lproj/Localizable.strings svn_mime_002dtype=application%2Foctet-stream
