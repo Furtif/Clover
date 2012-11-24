@@ -70,6 +70,7 @@ CloverPackage/CloverV2/themespkg/AppleStyle/icons/func_help.png svn_mime_002dtyp
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/func_options.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/func_reset.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/func_shutdown.png svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/AppleStyle/icons/os_clover.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/os_cougar.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/os_legacy.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/os_leo.icns svn_mime_002dtype=application%2Foctet-stream
@@ -79,6 +80,10 @@ CloverPackage/CloverV2/themespkg/AppleStyle/icons/os_snow.icns svn_mime_002dtype
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/os_tiger.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/os_unknown.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/os_win.icns svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/AppleStyle/icons/os_win7.icns svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/AppleStyle/icons/os_win8.icns svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/AppleStyle/icons/os_winvista.icns svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/AppleStyle/icons/os_winxp.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/osx.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/pointer.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/tool_part.png svn_mime_002dtype=application%2Foctet-stream
@@ -88,8 +93,11 @@ CloverPackage/CloverV2/themespkg/AppleStyle/icons/vol_clover.icns svn_mime_002dt
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/vol_external.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/vol_firewire.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/vol_internal.icns svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/AppleStyle/icons/vol_internal_ext3.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/vol_internal_ext3_disable.icns svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/AppleStyle/icons/vol_internal_hfs.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/vol_internal_hfs_disable.icns svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/AppleStyle/icons/vol_internal_ntfs.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/vol_internal_ntfs_disable.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/vol_optical.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/AppleStyle/icons/vol_recovery.icns svn_mime_002dtype=application%2Foctet-stream
