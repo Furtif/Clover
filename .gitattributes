@@ -37,8 +37,6 @@ CloverPackage/CloverV2/EFI/CLOVER/doc/config.plist-FullSample/PCI.png svn_mime_0
 CloverPackage/CloverV2/EFI/CLOVER/doc/config.plist-FullSample/RtVariables.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/EFI/CLOVER/doc/config.plist-FullSample/SMBIOS.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/EFI/CLOVER/doc/config.plist-FullSample/SystemParameters.png svn_mime_002dtype=application%2Foctet-stream
-CloverPackage/CloverV2/EFI/CLOVER/kexts/10.8/FakeSMC.kext/Contents/MacOS/FakeSMC svn_mime_002dtype=application%2Foctet-stream
-CloverPackage/CloverV2/EFI/CLOVER/kexts/10.8/HWInfo.kext/Contents/MacOS/HWInfo svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/EFI/CLOVER/themes/Selection_144px.bmp svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/EFI/CLOVER/themes/Selection_64px.bmp svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/EFI/CLOVER/themes/frame.png svn_mime_002dtype=application%2Foctet-stream
@@ -49,6 +47,8 @@ CloverPackage/CloverV2/EFI/CLOVER/themes/pointer-metal.png svn_mime_002dtype=app
 CloverPackage/CloverV2/EFI/CLOVER/tools/Shell32.efi svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/EFI/CLOVER/tools/Shell64.efi svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/EFI/CLOVER/tools/Shell64U.efi svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/ThirdParty/kexts/10.8/FakeSMC.kext/Contents/MacOS/FakeSMC svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/ThirdParty/kexts/10.8/HWInfo.kext/Contents/MacOS/HWInfo svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/AppleStyle/B_PTMono_10W.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/AppleStyle/Background.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/AppleStyle/LogoBlack.png svn_mime_002dtype=application%2Foctet-stream
