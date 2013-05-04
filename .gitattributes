@@ -15,6 +15,7 @@ BootSector/bin/start32H.com2 svn_mime_002dtype=application%2Foctet-stream
 BootSector/fix-embedded-paths svn_mime_002dtype=application%2Foctet-stream
 BootSector/gnu-gcc svn_mime_002dtype=application%2Foctet-stream
 BootSector/gnu-ld svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverUpdater/CloverUpdater.code/ru.lproj/MainMenu.nib svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/BootSectors/BootSectImage.exe svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/BootSectors/GenBootSector.exe svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/BootSectors/boot0 svn_mime_002dtype=application%2Foctet-stream
@@ -458,7 +459,6 @@ CloverPackage/CloverV2/themespkg/mrengles/scrollbar/up_button.png svn_mime_002dt
 CloverPackage/CloverV2/themespkg/public.generic-pc.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/package/Icon.zip svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/package/Resources/background.tiff svn_mime_002dtype=application%2Foctet-stream
-CloverUpdater/CloverUpdater.code/ru.lproj/MainMenu.nib svn_mime_002dtype=application%2Foctet-stream
 Library/GenericBdsLib/GenericBdsStrings.uni svn_mime_002dtype=application%2Foctet-stream
 Logo/Logo.bmp svn_mime_002dtype=application%2Foctet-stream
 Logo/LogoBW.bmp svn_mime_002dtype=application%2Foctet-stream
