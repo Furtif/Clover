@@ -453,6 +453,7 @@ CloverPackage/CloverV2/themespkg/mrengles/scrollbar/scroll_end.png svn_mime_002d
 CloverPackage/CloverV2/themespkg/mrengles/scrollbar/scroll_fill.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/mrengles/scrollbar/scroll_start.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/mrengles/scrollbar/up_button.png svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/os_clover.psd svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/public.generic-pc.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/package/Icon.zip svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/package/Resources/background.tiff svn_mime_002dtype=application%2Foctet-stream
@@ -488,6 +489,7 @@ font/WoB_UbuntuMonoBold_8W_NA.png svn_mime_002dtype=application%2Foctet-stream
 font/WoG_Monaco_10W.png svn_mime_002dtype=application%2Foctet-stream
 font/WoG_Monaco_ExtraSmooth_10W.png svn_mime_002dtype=application%2Foctet-stream
 font/WoG_Monaco_Smooth_10W.png svn_mime_002dtype=application%2Foctet-stream
+font/YoB_Liberation_11W_NA.png svn_mime_002dtype=application%2Foctet-stream
 font/dark-wide.png svn_mime_002dtype=application%2Foctet-stream
 font/device-cyr.png svn_mime_002dtype=application%2Foctet-stream
 font/device.png svn_mime_002dtype=application%2Foctet-stream
