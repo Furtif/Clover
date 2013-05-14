@@ -45,6 +45,7 @@ CloverPackage/CloverV2/EFI/CLOVER/themes/pointer-metal.png svn_mime_002dtype=app
 CloverPackage/CloverV2/EFI/CLOVER/tools/Shell32.efi svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/EFI/CLOVER/tools/Shell64.efi svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/EFI/CLOVER/tools/Shell64U.efi svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/EFI/CLOVER/tools/Shell64new.efi svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/ThirdParty/kexts/10.8/FakeSMC.kext/Contents/MacOS/FakeSMC svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/ThirdParty/kexts/10.8/HWInfo.kext/Contents/MacOS/HWInfo svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/etc/CloverUpdater.app/Contents/MacOS/CloverUpdater svn_mime_002dtype=application%2Foctet-stream
