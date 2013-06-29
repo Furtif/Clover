@@ -209,7 +209,6 @@ CloverPackage/CloverV2/themespkg/black_green/alternative_icons/os_clover_BoW.icn
 CloverPackage/CloverV2/themespkg/black_green/alternative_icons/os_linux_debian.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/alternative_icons/os_linux_knoppix.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/alternative_icons/os_linux_puppy.icns svn_mime_002dtype=application%2Foctet-stream
-CloverPackage/CloverV2/themespkg/black_green/alternative_icons/os_linux_ubuntu.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/alternative_icons/os_win7.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/alternative_icons/os_win7_2.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/alternative_icons/os_win8.icns svn_mime_002dtype=application%2Foctet-stream
@@ -253,6 +252,7 @@ CloverPackage/CloverV2/themespkg/black_green/icons/os_redhat.icns svn_mime_002dt
 CloverPackage/CloverV2/themespkg/black_green/icons/os_snow.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/icons/os_suse.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/icons/os_tiger.icns svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/black_green/icons/os_ubuntu.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/icons/os_unknown.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/icons/os_vista.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/icons/os_win.icns svn_mime_002dtype=application%2Foctet-stream
