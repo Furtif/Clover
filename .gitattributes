@@ -526,6 +526,7 @@ OsxBdsDxe/BootMngr/BootManagerStrings.uni svn_mime_002dtype=application%2Foctet-
 OsxBdsDxe/DeviceMngr/DeviceManagerStrings.uni svn_mime_002dtype=application%2Foctet-stream
 OsxBdsDxe/FrontPageStrings.uni svn_mime_002dtype=application%2Foctet-stream
 OsxBdsDxe/Strings.uni svn_mime_002dtype=application%2Foctet-stream
+Patches_for_EDK2/OvmfPkg/Qemu/Logo/qemu-icon.bmp svn_mime_002dtype=application%2Foctet-stream
 UefiCpuPkg/ResetVector/Vtf0/Bin/ResetVector.ia32.port80.raw svn_mime_002dtype=application%2Foctet-stream
 UefiCpuPkg/ResetVector/Vtf0/Bin/ResetVector.ia32.raw svn_mime_002dtype=application%2Foctet-stream
 UefiCpuPkg/ResetVector/Vtf0/Bin/ResetVector.ia32.serial.raw svn_mime_002dtype=application%2Foctet-stream
