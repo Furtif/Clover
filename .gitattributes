@@ -876,6 +876,11 @@ CloverPackage/CloverV2/themespkg/thinkpad/scrollbar/up_button.png svn_mime_002dt
 CloverPackage/package/Icon.zip svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/package/Resources/background.tiff svn_mime_002dtype=application%2Foctet-stream
 Library/GenericBdsLib/GenericBdsStrings.uni svn_mime_002dtype=application%2Foctet-stream
+Library/OpensslLib/openssl-0.9.8w/crypto/pkcs7/p7/cert.p7c svn_mime_002dtype=application%2Foctet-stream
+Library/OpensslLib/openssl-0.9.8w/crypto/pkcs7/p7/smime.p7m svn_mime_002dtype=application%2Foctet-stream
+Library/OpensslLib/openssl-0.9.8w/crypto/pkcs7/p7/smime.p7s svn_mime_002dtype=application%2Foctet-stream
+Library/OpensslLib/openssl-0.9.8w/doc/openssl_button.gif svn_mime_002dtype=application%2Foctet-stream
+Library/OpensslLib/openssl-0.9.8w/ms/.rnd svn_mime_002dtype=application%2Foctet-stream
 Logo/Logo.bmp svn_mime_002dtype=application%2Foctet-stream
 Logo/LogoBW.bmp svn_mime_002dtype=application%2Foctet-stream
 Logo/Logo_CloverEFI.bmp svn_mime_002dtype=application%2Foctet-stream
