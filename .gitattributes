@@ -523,7 +523,6 @@ CloverPackage/CloverV2/themespkg/black_green/alternative_icons/os_linux_knoppix.
 CloverPackage/CloverV2/themespkg/black_green/alternative_icons/os_linux_puppy.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/alternative_icons/os_win7.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/alternative_icons/os_win7_2.icns svn_mime_002dtype=application%2Foctet-stream
-CloverPackage/CloverV2/themespkg/black_green/alternative_icons/os_win8.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/alternative_icons/os_win8_2.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/alternative_icons/vol_clover_hdd.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/alternative_icons/vol_internal_hdd.icns svn_mime_002dtype=application%2Foctet-stream
@@ -546,6 +545,7 @@ CloverPackage/CloverV2/themespkg/black_green/icons/func_shutdown.png svn_mime_00
 CloverPackage/CloverV2/themespkg/black_green/icons/logo.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/icons/os_arch.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/icons/os_clover.icns svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/black_green/icons/os_clover_BoW.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/icons/os_cougar.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/icons/os_fedora.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/icons/os_freebsd.icns svn_mime_002dtype=application%2Foctet-stream
@@ -572,7 +572,6 @@ CloverPackage/CloverV2/themespkg/black_green/icons/os_vista.icns svn_mime_002dty
 CloverPackage/CloverV2/themespkg/black_green/icons/os_win.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/icons/pointer.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/icons/pointer.png svn_mime_002dtype=application%2Foctet-stream
-CloverPackage/CloverV2/themespkg/black_green/icons/tool_shell.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/icons/tool_shell.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/icons/vol_clover.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/icons/vol_external.icns svn_mime_002dtype=application%2Foctet-stream
@@ -581,9 +580,8 @@ CloverPackage/CloverV2/themespkg/black_green/icons/vol_internal.icns svn_mime_00
 CloverPackage/CloverV2/themespkg/black_green/icons/vol_internal_ntfs.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/icons/vol_optical.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/icons/vol_recovery.icns svn_mime_002dtype=application%2Foctet-stream
-CloverPackage/CloverV2/themespkg/black_green/logo-org.png svn_mime_002dtype=application%2Foctet-stream
-CloverPackage/CloverV2/themespkg/black_green/logo.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/logo_trans.png svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/black_green/screenshot.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/scrollbar/bar_end.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/scrollbar/bar_fill.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/scrollbar/bar_start.png svn_mime_002dtype=application%2Foctet-stream
