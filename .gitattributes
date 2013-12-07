@@ -293,6 +293,7 @@ CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_0
 CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_012.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_013.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/BGM/Anim_9_Boot_Sequence/Anim_9_Boot_Sequence_064.png svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/BGM/FontKorean.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/BGM/GoB_PTMono_10W_Bevel3.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/BGM/Selection_big.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/BGM/Selection_small.png svn_mime_002dtype=application%2Foctet-stream
@@ -363,6 +364,7 @@ CloverPackage/CloverV2/themespkg/BGM/scrollbar/scroll_start.png svn_mime_002dtyp
 CloverPackage/CloverV2/themespkg/BGM/scrollbar/up_button.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/applestyle/Background.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/applestyle/BootCampGray.png svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/applestyle/FontKorean.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/applestyle/Logo.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/applestyle/PTMono_10B.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/applestyle/PTMono_10W.png svn_mime_002dtype=application%2Foctet-stream
@@ -523,6 +525,7 @@ CloverPackage/CloverV2/themespkg/black_green/Anim_1_Logo_IntroOutro/Anim_1_Logo_
 CloverPackage/CloverV2/themespkg/black_green/Anim_1_Logo_IntroOutro/Anim_1_Logo_IntroOutro_237.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/Anim_1_Logo_IntroOutro/Anim_1_Logo_IntroOutro_238.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/Anim_1_Logo_IntroOutro/Anim_1_Logo_IntroOutro_381.png svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/black_green/FontKorean.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/Selection_big.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/Selection_small.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/WoB_PTMono_10W_NA.png svn_mime_002dtype=application%2Foctet-stream
@@ -852,6 +855,7 @@ CloverPackage/CloverV2/themespkg/magnifico/scrollbar/scroll_start.png svn_mime_0
 CloverPackage/CloverV2/themespkg/magnifico/scrollbar/up_button.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/metal/BoG_DejaVuSans_9W.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/metal/BoG_LucidaConsole_10W_NA.png svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/metal/FontKorean.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/metal/MetalBack.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/metal/MetalDragon.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/metal/Select_trans_big.png svn_mime_002dtype=application%2Foctet-stream
