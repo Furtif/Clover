@@ -2265,6 +2265,7 @@ OsxBdsDxe/FrontPageStrings.uni svn_mime_002dtype=application%2Foctet-stream
 OsxBdsDxe/Strings.uni svn_mime_002dtype=application%2Foctet-stream
 Patches_for_EDK2/OvmfPkg/Csm/Csm16/Csm16.bin svn_mime_002dtype=application%2Foctet-stream
 Patches_for_EDK2/OvmfPkg/Qemu/Logo/qemu-icon.bmp svn_mime_002dtype=application%2Foctet-stream
+Patches_for_EDK2/OvmfPkg/SeaBios/vgabios-stdvga.bin svn_mime_002dtype=application%2Foctet-stream
 Patches_for_EDK2/ShellPkg/Library/UefiShellLevel2CommandsLib/UefiShellLevel2CommandsLib.uni svn_mime_002dtype=application%2Foctet-stream
 UefiCpuPkg/ResetVector/Vtf0/Bin/ResetVector.ia32.port80.raw svn_mime_002dtype=application%2Foctet-stream
 UefiCpuPkg/ResetVector/Vtf0/Bin/ResetVector.ia32.raw svn_mime_002dtype=application%2Foctet-stream
