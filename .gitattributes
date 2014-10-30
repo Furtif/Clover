@@ -2272,6 +2272,10 @@ Patches_for_EDK2/OvmfPkg/Csm/LegacyBiosDxe/LegacyBiosDxeExtra.uni svn_mime_002dt
 Patches_for_EDK2/OvmfPkg/Qemu/Logo/qemu-icon.bmp svn_mime_002dtype=application%2Foctet-stream
 Patches_for_EDK2/OvmfPkg/SeaBios/vgabios-stdvga.bin svn_mime_002dtype=application%2Foctet-stream
 Patches_for_EDK2/ShellPkg/Library/UefiShellLevel2CommandsLib/UefiShellLevel2CommandsLib.uni svn_mime_002dtype=application%2Foctet-stream
+Patches_for_EDK2/UsbBusDxe/UsbBusDxe.uni svn_mime_002dtype=application%2Foctet-stream
+Patches_for_EDK2/UsbBusDxe/UsbBusDxeExtra.uni svn_mime_002dtype=application%2Foctet-stream
+Patches_for_EDK2/UsbMouseDxe/UsbMouseDxe.uni svn_mime_002dtype=application%2Foctet-stream
+Patches_for_EDK2/UsbMouseDxe/UsbMouseDxeExtra.uni svn_mime_002dtype=application%2Foctet-stream
 UefiCpuPkg/Library/CpuExceptionHandlerLib/DxeCpuExceptionHandlerLib.uni svn_mime_002dtype=application%2Foctet-stream
 UefiCpuPkg/Library/CpuExceptionHandlerLib/SecPeiCpuExceptionHandlerLib.uni svn_mime_002dtype=application%2Foctet-stream
 UefiCpuPkg/Library/CpuExceptionHandlerLib/SmmCpuExceptionHandlerLib.uni svn_mime_002dtype=application%2Foctet-stream
