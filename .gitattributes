@@ -2252,6 +2252,10 @@ CloverPackage/CloverV2/themespkg/thinkpad/scrollbar/up_button.png svn_mime_002dt
 CloverPackage/package/Icon.zip svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/package/Resources/background.tiff svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/utils/bdmesg/bdmesg.xcodeproj/project.xcworkspace/xcuserdata/slice.xcuserdatad/UserInterfaceState.xcuserstate svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/utils/binaries/bdmesg svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/utils/binaries/boot1-install svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/utils/binaries/clover-genconfig svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/utils/binaries/fdisk440 svn_mime_002dtype=application%2Foctet-stream
 Library/GenericBdsLib/GenericBdsStrings.uni svn_mime_002dtype=application%2Foctet-stream
 Library/OpensslLib/openssl-0.9.8w/crypto/pkcs7/p7/cert.p7c svn_mime_002dtype=application%2Foctet-stream
 Library/OpensslLib/openssl-0.9.8w/crypto/pkcs7/p7/smime.p7m svn_mime_002dtype=application%2Foctet-stream
