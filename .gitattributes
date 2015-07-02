@@ -317,6 +317,7 @@ CloverPackage/CloverV2/themespkg/BGM/icons/func_secureboot_config.png svn_mime_0
 CloverPackage/CloverV2/themespkg/BGM/icons/func_shutdown.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/BGM/icons/logo.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/BGM/icons/os_arch.icns svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/BGM/icons/os_cap.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/BGM/icons/os_clover.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/BGM/icons/os_cougar.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/BGM/icons/os_fedora.icns svn_mime_002dtype=application%2Foctet-stream
@@ -1276,6 +1277,7 @@ CloverPackage/CloverV2/themespkg/Shield/icons/func_reset.png svn_mime_002dtype=a
 CloverPackage/CloverV2/themespkg/Shield/icons/func_secureboot.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/Shield/icons/func_secureboot_config.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/Shield/icons/func_shutdown.png svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/Shield/icons/os_cap.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/Shield/icons/os_clover.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/Shield/icons/os_cougar.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/Shield/icons/os_legacy.icns svn_mime_002dtype=application%2Foctet-stream
@@ -1515,6 +1517,7 @@ CloverPackage/CloverV2/themespkg/black_green/icons/func_secureboot_config.png sv
 CloverPackage/CloverV2/themespkg/black_green/icons/func_shutdown.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/icons/logo.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/icons/os_arch.icns svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/black_green/icons/os_cap.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/icons/os_clover.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/icons/os_clover_BoW.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/black_green/icons/os_cougar.icns svn_mime_002dtype=application%2Foctet-stream
