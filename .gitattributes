@@ -19,6 +19,7 @@ BootSector/bin/start32H.com2 svn_mime_002dtype=application%2Foctet-stream
 BootSector/fix-embedded-paths svn_mime_002dtype=application%2Foctet-stream
 BootSector/gnu-gcc svn_mime_002dtype=application%2Foctet-stream
 BootSector/gnu-ld svn_mime_002dtype=application%2Foctet-stream
+BuildTools/usr/local/bin/mtoc.NEW.zip svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/BootSectors/BootSectImage.exe svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/BootSectors/GenBootSector.exe svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/BootSectors/cdboot svn_mime_002dtype=application%2Foctet-stream
