@@ -9,6 +9,7 @@ BootSector/bin/Start64H4.com svn_mime_002dtype=application%2Foctet-stream
 BootSector/bin/boot0 svn_mime_002dtype=application%2Foctet-stream
 BootSector/bin/boot0md svn_mime_002dtype=application%2Foctet-stream
 BootSector/bin/boot1f32 svn_mime_002dtype=application%2Foctet-stream
+BootSector/bin/boot1f5 svn_mime_002dtype=application%2Foctet-stream
 BootSector/bin/boot1h svn_mime_002dtype=application%2Foctet-stream
 BootSector/bin/bs32.com svn_mime_002dtype=application%2Foctet-stream
 BootSector/bin/efi32.com3 svn_mime_002dtype=application%2Foctet-stream
