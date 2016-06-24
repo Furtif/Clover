@@ -1363,6 +1363,7 @@ CloverPackage/CloverV2/themespkg/Space/icons/vol_clover.icns svn_mime_002dtype=a
 CloverPackage/CloverV2/themespkg/Space/icons/vol_external.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/Space/icons/vol_firewire.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/Space/icons/vol_internal.icns svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/Space/icons/vol_internal_ext3.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/Space/icons/vol_internal_hfs.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/Space/icons/vol_internal_ntfs.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/Space/icons/vol_optical.icns svn_mime_002dtype=application%2Foctet-stream
