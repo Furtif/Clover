@@ -345,6 +345,8 @@ CloverPackage/CloverV2/themespkg/BGM/icons/vol_internal_ntfs.icns svn_mime_002dt
 CloverPackage/CloverV2/themespkg/BGM/icons/vol_optical.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/BGM/icons/vol_recovery.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/BGM/logo_trans.png svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/BGM/radio_button.png svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/BGM/radio_button_selected.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/BGM/screenshot.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/BGM/scrollbar/bar_end.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/BGM/scrollbar/bar_fill.png svn_mime_002dtype=application%2Foctet-stream
@@ -354,6 +356,7 @@ CloverPackage/CloverV2/themespkg/BGM/scrollbar/scroll_end.png svn_mime_002dtype=
 CloverPackage/CloverV2/themespkg/BGM/scrollbar/scroll_fill.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/BGM/scrollbar/scroll_start.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/BGM/scrollbar/up_button.png svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/BGM/selection_indicator.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/Shield/Anim_10_Options_SMBIOS_Settings/Anim_10_Options_SMBIOS_Settings_000.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/Shield/Anim_10_Options_SMBIOS_Settings/Anim_10_Options_SMBIOS_Settings_001.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/Shield/Anim_10_Options_SMBIOS_Settings/Anim_10_Options_SMBIOS_Settings_002.png svn_mime_002dtype=application%2Foctet-stream
@@ -1295,6 +1298,8 @@ CloverPackage/CloverV2/themespkg/Shield/icons/vol_internal_ntfs.icns svn_mime_00
 CloverPackage/CloverV2/themespkg/Shield/icons/vol_optical.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/Shield/icons/vol_recovery.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/Shield/logo_trans.png svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/Shield/radio_button.png svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/Shield/radio_button_selected.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/Shield/screenshot.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/Shield/scrollbar/#scroll_start.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/Shield/scrollbar/bar_end.png svn_mime_002dtype=application%2Foctet-stream
@@ -1313,6 +1318,7 @@ CloverPackage/CloverV2/themespkg/Shield/scrollbar/v1[!!-~]bin/scroll_end.png svn
 CloverPackage/CloverV2/themespkg/Shield/scrollbar/v1[!!-~]bin/scroll_fill.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/Shield/scrollbar/v1[!!-~]bin/scroll_start.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/Shield/scrollbar/v1[!!-~]bin/up_button.png svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/themespkg/Shield/selection_indicator.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/Space/SelectBig.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/Space/SelectSmall.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/Space/Space_logo/Space_logo_000.png svn_mime_002dtype=application%2Foctet-stream
