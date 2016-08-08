@@ -23,6 +23,7 @@ CloverPackage/CloverV2/BootSectors/GenBootSector.exe svn_mime_002dtype=applicati
 CloverPackage/CloverV2/BootSectors/cdboot svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/BootSectors/lzma svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/BootSectors/usbs32.bin svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/CloverV2/Bootloaders/x64/boot7-MCP79 svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/EFI/CLOVER/doc/HowToFixDsdt.txt svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/EFI/CLOVER/doc/bcfg.txt svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/EFI/CLOVER/themes/Selection_144px.bmp svn_mime_002dtype=application%2Foctet-stream
