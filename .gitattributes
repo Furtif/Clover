@@ -718,6 +718,8 @@ CloverPackage/utils/bdmesg/bdmesg.xcodeproj/project.xcworkspace/xcuserdata/slice
 Drivers/AtaAtapi/AtaAtapiPassThruDxe.uni svn_mime_002dtype=application%2Foctet-stream
 Drivers/UsbBusDxe/UsbBusDxe.uni svn_mime_002dtype=application%2Foctet-stream
 Drivers/UsbBusDxe/UsbBusDxeExtra.uni svn_mime_002dtype=application%2Foctet-stream
+Drivers/UsbMouseDxe/UsbMouseDxe.uni svn_mime_002dtype=application%2Foctet-stream
+Drivers/UsbMouseDxe/UsbMouseDxeExtra.uni svn_mime_002dtype=application%2Foctet-stream
 Drivers/XhciDxe/XhciDxe.uni svn_mime_002dtype=application%2Foctet-stream
 Drivers/XhciDxe/XhciDxeExtra.uni svn_mime_002dtype=application%2Foctet-stream
 FatPkg/EnhancedFatDxe/Fat.uni svn_mime_002dtype=application%2Foctet-stream
@@ -737,8 +739,6 @@ Patches_for_EDK2/OvmfPkg/CsmOld/LegacyBiosDxe/LegacyBiosDxeExtra.uni svn_mime_00
 Patches_for_EDK2/OvmfPkg/Qemu/Logo/qemu-icon.bmp svn_mime_002dtype=application%2Foctet-stream
 Patches_for_EDK2/OvmfPkg/SeaBios/vgabios-stdvga.bin svn_mime_002dtype=application%2Foctet-stream
 Patches_for_EDK2/ShellPkg/Library/UefiShellLevel2CommandsLib/UefiShellLevel2CommandsLib.uni svn_mime_002dtype=application%2Foctet-stream
-Patches_for_EDK2/UsbMouseDxe/UsbMouseDxe.uni svn_mime_002dtype=application%2Foctet-stream
-Patches_for_EDK2/UsbMouseDxe/UsbMouseDxeExtra.uni svn_mime_002dtype=application%2Foctet-stream
 Xcode/EDKComp.xcworkspace/xcuserdata/slice.xcuserdatad/UserInterfaceState.xcuserstate svn_mime_002dtype=application%2Foctet-stream
 font/BoG_DejaVuSans_9W.png svn_mime_002dtype=application%2Foctet-stream
 font/BoG_LucidaConsole_10W.png svn_mime_002dtype=application%2Foctet-stream
