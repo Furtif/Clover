@@ -217,7 +217,6 @@ CloverPackage/CloverV2/EFI/CLOVER/tools/Shell32.efi svn_mime_002dtype=applicatio
 CloverPackage/CloverV2/EFI/CLOVER/tools/Shell64.efi svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/EFI/CLOVER/tools/Shell64U.efi svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/ThirdParty/kexts/Other/FakeSMC.kext/Contents/MacOS/FakeSMC svn_mime_002dtype=application%2Foctet-stream
-CloverPackage/CloverV2/ThirdParty/kexts/Other/HWInfo.kext/Contents/MacOS/HWInfo svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_000.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_001.png svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/CloverV2/themespkg/BGM/Anim_10_SMBIOS/Anim_10_SMBIOS_002.png svn_mime_002dtype=application%2Foctet-stream
