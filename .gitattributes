@@ -784,6 +784,7 @@ CloverPackage/CloverV2/themespkg/newyear/snow.png svn_mime_002dtype=application%
 CloverPackage/CloverV2/themespkg/public.generic-pc.icns svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/package/Icon.zip svn_mime_002dtype=application%2Foctet-stream
 CloverPackage/package/Resources/background.tiff svn_mime_002dtype=application%2Foctet-stream
+CloverPackage/package/Scripts.templates/CloverThemeManager/preinstall svn_eol_002dstyle=native
 CloverPackage/utils/bdmesg/bdmesg.xcodeproj/project.xcworkspace/xcuserdata/slice.xcuserdatad/UserInterfaceState.xcuserstate svn_mime_002dtype=application%2Foctet-stream
 Drivers/AtaAtapi/AtaAtapiPassThruDxe.uni svn_mime_002dtype=application%2Foctet-stream
 Drivers/UsbBusDxe/UsbBusDxe.uni svn_mime_002dtype=application%2Foctet-stream
