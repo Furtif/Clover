@@ -810,7 +810,6 @@ Patches_for_EDK2/OvmfPkg/CsmOld/LegacyBiosDxe/LegacyBiosDxe.uni svn_mime_002dtyp
 Patches_for_EDK2/OvmfPkg/CsmOld/LegacyBiosDxe/LegacyBiosDxeExtra.uni svn_mime_002dtype=application%2Foctet-stream
 Patches_for_EDK2/OvmfPkg/Qemu/Logo/qemu-icon.bmp svn_mime_002dtype=application%2Foctet-stream
 Patches_for_EDK2/OvmfPkg/SeaBios/vgabios-stdvga.bin svn_mime_002dtype=application%2Foctet-stream
-Patches_for_EDK2/ShellPkg/Library/UefiShellLevel2CommandsLib/UefiShellLevel2CommandsLib.uni svn_mime_002dtype=application%2Foctet-stream
 ShellPkg/Application/ShellCTestApp/TestArgv.log svn_mime_002dtype=application%2Foctet-stream
 ShellPkg/Library/UefiShellLevel2CommandsLib/UefiShellLevel2CommandsLib.uni svn_mime_002dtype=application%2Foctet-stream
 Xcode/EDKComp.xcworkspace/xcuserdata/slice.xcuserdatad/UserInterfaceState.xcuserstate svn_mime_002dtype=application%2Foctet-stream
