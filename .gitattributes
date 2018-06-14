@@ -1,5 +1,3 @@
-BuildTools/usr/local/bin/mtoc.NEW svn_mime_002dtype=application%2Foctet-stream
-BuildTools/usr/local/bin/mtoc.NEW.zip svn_mime_002dtype=application%2Foctet-stream
 CloverEFI/BootSector/bin/Gpt.com svn_mime_002dtype=application%2Foctet-stream
 CloverEFI/BootSector/bin/Mbr.com svn_mime_002dtype=application%2Foctet-stream
 CloverEFI/BootSector/bin/Start64.com svn_mime_002dtype=application%2Foctet-stream
