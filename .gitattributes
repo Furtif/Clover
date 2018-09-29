@@ -826,6 +826,7 @@ Patches_for_EDK2/OvmfPkg/CsmOld/LegacyBiosDxe/LegacyBiosDxe.uni svn_mime_002dtyp
 Patches_for_EDK2/OvmfPkg/CsmOld/LegacyBiosDxe/LegacyBiosDxeExtra.uni svn_mime_002dtype=application%2Foctet-stream
 Patches_for_EDK2/OvmfPkg/Qemu/Logo/qemu-icon.bmp svn_mime_002dtype=application%2Foctet-stream
 Patches_for_EDK2/OvmfPkg/SeaBios/vgabios-stdvga.bin svn_mime_002dtype=application%2Foctet-stream
+Patches_for_EDK2/ShellPkg/Include/Library/ShellLib.h svn_keywords=Author+Date+Id+Rev+URL svn_eol_002dstyle=native
 Patches_for_UDK2018/OvmfPkg/CsmOld/Csm16/Csm16.bin svn_mime_002dtype=application%2Foctet-stream
 Patches_for_UDK2018/OvmfPkg/CsmOld/LegacyBiosDxe/LegacyBiosDxe.uni svn_mime_002dtype=application%2Foctet-stream
 Patches_for_UDK2018/OvmfPkg/CsmOld/LegacyBiosDxe/LegacyBiosDxeExtra.uni svn_mime_002dtype=application%2Foctet-stream
